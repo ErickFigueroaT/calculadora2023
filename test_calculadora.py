@@ -9,3 +9,5 @@ class TestCalculadora(unittest.TestCase):
 
 if __name__ == '__main__':
 	unittest.main()
+
+	"git init , git add. git commit -m "agrega calculadora" , git remote add origin, git push origin master , "
